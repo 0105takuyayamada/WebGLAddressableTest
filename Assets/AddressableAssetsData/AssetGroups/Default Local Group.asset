@@ -27,15 +27,24 @@ MonoBehaviour:
   - m_GUID: e08234be8210e3646bc1b9553a6fce93
     m_Address: Assets/Prefabs/Sphere.prefab
     m_ReadOnly: 0
-    m_SerializedLabels: []
-    m_MainAsset: {fileID: 0}
-    m_TargetAsset: {fileID: 0}
+    m_SerializedLabels:
+    - default
+    m_MainAsset: {fileID: 6487671917680291605, guid: e08234be8210e3646bc1b9553a6fce93, type: 3}
+    m_TargetAsset: {fileID: 6487671917680291605, guid: e08234be8210e3646bc1b9553a6fce93, type: 3}
   - m_GUID: 40496d6030adabc43bfd7c6acf88e139
     m_Address: Assets/Prefabs/Capsule.prefab
     m_ReadOnly: 0
-    m_SerializedLabels: []
-    m_MainAsset: {fileID: 0}
-    m_TargetAsset: {fileID: 0}
+    m_SerializedLabels:
+    - default
+    m_MainAsset: {fileID: 8895352331341520345, guid: 40496d6030adabc43bfd7c6acf88e139, type: 3}
+    m_TargetAsset: {fileID: 8895352331341520345, guid: 40496d6030adabc43bfd7c6acf88e139, type: 3}
+  - m_GUID: 971361790a3444547af7b01883772f47
+    m_Address: Assets/Prefabs/New Material.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    m_MainAsset: {fileID: 2100000, guid: 971361790a3444547af7b01883772f47, type: 2}
+    m_TargetAsset: {fileID: 2100000, guid: 971361790a3444547af7b01883772f47, type: 2}
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 772b74daffd2a034cb73f178e0161a89, type: 2}
   m_SchemaSet:
