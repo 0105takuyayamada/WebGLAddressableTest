@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 10faca41d8a995d4b93943d45011012a
+  m_SerializeEntries:
+  - m_GUID: 816da6744b2943f4c977f555236b6bd7
+    m_Address: Assets/Prefabs/Cube.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e08234be8210e3646bc1b9553a6fce93
+    m_Address: Assets/Prefabs/Sphere.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 40496d6030adabc43bfd7c6acf88e139
+    m_Address: Assets/Prefabs/Capsule.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 772b74daffd2a034cb73f178e0161a89, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: aa9191e004f31fd46a510aebc4f52516, type: 2}
+    - {fileID: 11400000, guid: 200562cfc7e300842aca0d50b1f52c07, type: 2}
